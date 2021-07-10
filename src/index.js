@@ -59,8 +59,8 @@ function SimpleForm() {
 
 render(
   <>
-    <SimpleForm />
-    {/* <App /> */}
+    {/* <SimpleForm /> */}
+    <App />
   </>,
   document.querySelector("#root")
 );
